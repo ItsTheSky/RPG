@@ -6,6 +6,6 @@ C'est un serveur minecraft du NetWork de HallOfGames ! Il est encore en dévelop
 ### Adresse IP : hallofgames.net
 ### Site WEB : [Bientôt !](http://hallofgames.net)
 
-## Menu Principal
+### Menu Principal
 
-* [Ruby](https://github.com/SkyCraft78/RPG/blob/master/Menu/Objets.md)
+##* [Objets](https://github.com/SkyCraft78/RPG/blob/master/Menu/Objets.md)
