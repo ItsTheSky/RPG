@@ -8,4 +8,4 @@ C'est un serveur minecraft du NetWork de HallOfGames ! Il est encore en dévelop
 
 ### Menu Principal
 
-## * [Objets](https://github.com/SkyCraft78/RPG/blob/master/Menu/Objets.md)
+* ## [Objets](https://github.com/SkyCraft78/RPG/blob/master/Menu/Objets.md)
