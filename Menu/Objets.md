@@ -1,7 +1,7 @@
 # Objets
 ## Minéraux
-* Ruby
-* Amethyst
+* [Ruby](https://github.com/SkyCraft78/RPG/blob/master/Objets/Minerals/Ruby.md)
+* [Amethyst](https://github.com/SkyCraft78/RPG/blob/master/Objets/Minerals/Amethyst.md)
 * Bronze
 * Crystal
 * Aqua Aura
