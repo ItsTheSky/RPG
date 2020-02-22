@@ -7,9 +7,9 @@
 | ID | ruby |
 | Raraté | Commun |
 
-| Obtentions |  |
+| Obtention |  |
 | ------ | ------ |
-| Type | Cassage |
+| Type | Casser |
 | Bloc | Ruby Ore |
 | Chance | 100% |
 | Quantité | 1-2 |
