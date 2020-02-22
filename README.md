@@ -5,3 +5,7 @@ C'est un serveur minecraft du NetWork de HallOfGames ! Il est encore en dévelop
 ### Discord : [Cliquez](https://discord.gg/CjPXQzH)
 ### Adresse IP : hallofgames.net
 ### Site WEB : [Bientôt !](http://hallofgames.net)
+
+## Menu Principal
+
+* [Ruby](https://github.com/SkyCraft78/RPG/blob/master/Menu/Objets.md)
